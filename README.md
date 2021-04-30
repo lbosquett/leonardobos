@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+This is my Stack Overflow Developer Story:
+https://stackoverflow.com/story/leonardo-bosquett
+
 My stack is:
 - Javascript
 - Typescript
